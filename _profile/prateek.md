@@ -12,6 +12,7 @@ name: Prateek Tiwari
 # Optional, atleast 2 recommended
 email: nopanictri@yahoo.com
 quora: https://www.quora.com/profile/Prateek-Tiwari-62
+google: https://plus.google.com/109674544460125183017
 github: https://github.com/pitbuk101 
 youtube: https://www.youtube.com/channel/UCCVT_NxzDnb2pMvTCSw5A1A
 instagram: https://www.instagram.com/prateek_tiwari_99/
