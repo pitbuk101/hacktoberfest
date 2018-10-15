@@ -20,5 +20,5 @@ instagram: https://www.instagram.com/prateek_tiwari_99/
 # Optional
 # Upload the image to imgur and
 # paste the direct link to imag
-picture: https://imgur.com/a/EdaOCpp
+picture: https://i.imgur.com/EmNts9B.jpg					
 ---
